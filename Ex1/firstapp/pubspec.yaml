@@ -31,8 +31,8 @@ dependencies:
     sdk: flutter
   # install my package 
   flutter_launcher_icons: ^0.9.3
-   
 
+   
 flutter_icons:
   image_path: "images/logo.png"
   image_path_android: "images/logo.png"
